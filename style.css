@@ -1,0 +1,40 @@
+body{
+    background-color: pink;
+}
+
+header{
+    background-color: lavender;
+    color: black;
+    text-align: center;
+    margin: 20px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+.container{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn{
+    border-radius: 5px;
+    background-color: pink;
+    box-shadow: 5px 10px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.card{
+    padding: 20px;
+    margin: 10px;
+    border: 2px black solid;
+    border-radius: 4px;
+    background-color: blueviolet;
+    box-shadow: 5px 10px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
