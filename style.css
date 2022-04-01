@@ -6,14 +6,15 @@ header{
     background-color: lavender;
     color: black;
     text-align: center;
-    margin: 20px;
+    margin: 30px;
     font-size: large;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
+    
 }
 .container{
-    margin: 20px;
+    margin: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,15 +27,29 @@ header{
     box-shadow: 5px 10px black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    margin: 20px;
 }
 
 .card{
     padding: 20px;
-    margin: 10px;
+    margin: 20px;
     border: 2px black solid;
     border-radius: 4px;
     background-color: blueviolet;
     box-shadow: 5px 10px black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+}
+
+img{
+    height: 250px;
+    filter: grayscale();
+    border-radius: 20%;
+    border: 7px black solid;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+
 }
