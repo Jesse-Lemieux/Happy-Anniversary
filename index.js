@@ -62,6 +62,57 @@ const facts = [
     {
         info: 'Your body is so elegant and beautiful.'
     },
+    {
+        info: 'We still need to have a crusty night one of these days.'
+    },
+    {
+        info: 'When I gaze into you eyes, I feel harmony, peace'
+    },
+    {
+        info: 'Thank you for putting up with my grumpiness in the morning and making me coffee, I love you.'
+    },
+    {
+        info: 'I look forward to awkwardly dancing with you again in the future'
+    },
+    {
+        info: 'One day, I want to make a little family with you <3'
+    },
+    {
+        info: 'Ill always rub your feet when they are sore after a long day.'
+    },
+    {
+        info: 'You are so supportive of the things I enjoy, even if I know some of them annoy you a little, and I appreciate that more than you know.'
+    },
+    {
+        info: 'Heres to more crazy tequila nights in the future xD'
+    },
+    {
+        info: 'I love seeing you smile <3'
+    },
+    {
+        info: 'When im staying far away in Oakville, I sometimes lay down to bed and wish you could be there, I always miss you<3'
+    },
+    {
+        info: 'Lets touch eyeballs<3 (you cant eat my eyes)'
+    },
+    {
+        info: 'You make everything better<3'
+    },
+    {
+        info: 'You give excellent head.'
+    },
+    {
+        info: 'I love our little late night cooking experiments :)'
+    },
+    {
+        info: 'You. Jojos. Bed. Thor. Snacks (but not too many)'
+    },
+    {
+        info: 'You are just fucking gorgeous.'
+    },
+    {
+        info: 'I love how you make sometimes being awkward fucking cute<3'
+    },
 ]
 
 const myFunction = function(){
